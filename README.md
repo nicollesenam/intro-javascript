@@ -7,4 +7,4 @@ Projeto de contador com auxílio da mentora Stephany Nusch, em que o mesmo possu
   <li>Desabilitar botão de decrementar ao atingir número -5</li>
 </ol>
 
-O projeto possui o [código javascript ensinado na aula](https://github.com/nicollesenam/intro-javascript/blob/master/desafio.html) e a resolução do [desafio proposto](https://github.com/nicollesenam/intro-javascript/blob/master/desafio.html) implementando as funções acima.
+O projeto possui o [código javascript ensinado na aula](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/script.js) e a resolução do [desafio proposto](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/script2.js) implementando as funções acima.
