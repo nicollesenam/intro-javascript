@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to right, #E65763, #34073D);
+  width: 100vw;
+  height: 100vh;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.min-container{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.min-container h1{
+  line-height: 5px;
+  padding: 24px;
+}
+
+#tasks-list-container h2{
+  font-size: 20px;
+  margin-top: 10px;
+  font-weight: 400;
+  text-shadow: black;
+}
+
+ul li{
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  cursor: pointer;
+}
+
+
+
+.min-container #addButton{
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  border-color: red;
+  cursor: pointer;
+}
+
+
+input:focus{
+  outline: none;
+}
+.task-add input{
+  padding-left: 15px;
+  border-radius: 5px;
+  border-style: none;
+  width: 300px;
+  height: 30px;
+  outline: none;
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+
