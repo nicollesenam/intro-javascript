@@ -26,7 +26,7 @@ Calculadora desenvolvida com auxílio da mentora Diana Martine, que possui as se
   <li>Validação de operação</li>
   <li>Menu com opções</li>
 </ol>
-O código fonte desse projeto pode ser visualizado [aqui](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/calculadora.js).
+O código fonte desse projeto pode ser visualizado [aqui](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/calculadora.js) .
 
 
 ## Atividade Prática
@@ -39,5 +39,5 @@ Atividade do curso de Sintaxe e Operadores com auxílio da mentora Stephany Nusc
   <li>Retorne uma string dizendo "Os números num1 e num2 não/são iguais. Sua soma é soma, que é maior/menor que 10 e maior/menor que 20".</li>
 </ol>
 
-O código fonte que eu desenvolvi para resolver essa atividade pode ser visualizado [aqui](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/operadoresEatividade.js).
+O código fonte que eu desenvolvi para resolver essa atividade pode ser visualizado [aqui](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/operadoresEatividade.js) .
 
