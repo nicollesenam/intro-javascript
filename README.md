@@ -1,3 +1,6 @@
+# Conheça este repositório! :open_file_folder:
+Criado no intuito de armazenar arquivos de estudo e projetos do curso de JavaScript do Bootcamp MRV Fullstack Developer.
+
 ## Contador
 Projeto de contador com auxílio da mentora Stephany Nusch, em que o mesmo possui as seguintes funções: </br>
 <ol>
@@ -26,8 +29,6 @@ Calculadora desenvolvida com auxílio da mentora Diana Martine, que possui as se
   <li>Validação de operação</li>
   <li>Menu com opções</li>
 </ol>
-O código fonte desse projeto pode ser visualizado no arquivo [calculadora.js](../intro-javascript/assets/js/calculadora.js) desse repositório.
-
 
 ## Atividade Prática
 
