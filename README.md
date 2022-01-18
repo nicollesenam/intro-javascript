@@ -26,7 +26,7 @@ Calculadora desenvolvida com auxílio da mentora Diana Martine, que possui as se
   <li>Validação de operação</li>
   <li>Menu com opções</li>
 </ol>
-O código fonte desse projeto pode ser visualizado no arquivo [calculadora.js](assets/js/calculadora.js) desse repositório.
+O código fonte desse projeto pode ser visualizado no arquivo [calculadora.js](../intro-javascript/assets/js/calculadora.js) desse repositório.
 
 
 ## Atividade Prática
