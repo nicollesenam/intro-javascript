@@ -113,3 +113,16 @@ Projeto referente ao curso "Debugging e Error Handling" do Bootcamp com auxílio
   <li>Utilize a declaração <code>try...catch</code></li>
   <li>Filtre as chamadas de catch por cada tipo de erro utilizando o operador <code>instanceof</code></li>
 </ol>
+
+# Map, Filter e Reduce
+Atividades práticas do curso "Map, Filter e Reduce" do Bootcamp com auxílio da mentora Stephany Nusch.
+
+## [Atividade: Map](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/map%2C%20filter%20e%20reduce/map/atividade.js)
+- Pratique a sintaxe de multiplicação de números, uma vez utilizando o parâmetro <code>this</code> de um objeto criado por você, e depois sem ele.
+## [Atividade: Filter](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/map%2C%20filter%20e%20reduce/filter/atividade.js)
+- Filtre e retorne todos os números pares de um array.
+## [Atividade: Reduce](https://github.com/nicollesenam/intro-javascript/blob/master/assets/js/map%2C%20filter%20e%20reduce/reduce/atividade.js)
+<ol>
+  <li>Some todos os números de um array</li>
+  <li>Crie uma função que recebe uma lista de preços e um número representando o saldo disponível. Calcule qual será o saldo final após subtrair todos os preços da lista enviada.</li>
+</ol>
