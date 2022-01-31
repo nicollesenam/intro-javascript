@@ -126,3 +126,10 @@ Atividades práticas do curso "Map, Filter e Reduce" do Bootcamp com auxílio da
   <li>Some todos os números de um array</li>
   <li>Crie uma função que recebe uma lista de preços e um número representando o saldo disponível. Calcule qual será o saldo final após subtrair todos os preços da lista enviada.</li>
 </ol>
+
+# Projeto Light Mode e Dark Mode
+Projeto realizado com auxílio da mentora Stephany Nusch manipulando o DOM.
+
+![ligthmodedarkmode](https://user-images.githubusercontent.com/82225853/151831861-711a673f-fb90-4c4d-82e4-412b17a46e26.gif)
+
+O código fonte pode ser visualizado [aqui](https://github.com/nicollesenam/intro-javascript/tree/master/light%20mode%20e%20dark%20mode).
